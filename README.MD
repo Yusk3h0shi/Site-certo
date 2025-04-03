@@ -1,10 +1,9 @@
-# Site acessível sobre Tropicália
+# Site acessível sobre Imagine Dragons 
 # Sobre
 Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
 ## Recursos de acessibilidade
 - Atributos aria
-- alt
-- tab-index
+- alt- tab-index
 - menu de acessibilidade
 ## Tecnologias utilizadas
 - Bootstrap
